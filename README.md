@@ -1,2 +1,2 @@
-# ArchimedesProject
-We are adding commenting functionality to the Time Machine application for the SEI class.
+# Shepherd Moons Add-on
+This is an add-on to the TimeMachine application already running on Dr. Geary's website. We are going to add commenting capabilities on several levels to the application.
